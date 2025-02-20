@@ -1,0 +1,1016 @@
+{
+  "general": {
+    "profilePhoto": "/content/media/profilePhoto.jpg",
+    "username": "taurean",
+    "displayName": "Taurean Bryant",
+    "profession": "Design and engineering",
+    "location": "Vallejo,  CA",
+    "pronouns": "He/Him/His",
+    "byline": "Design and engineering in Vallejo,  CA, He/Him/His",
+    "website": "Taurean.work",
+    "websiteURL": "http://Taurean.work",
+    "about": "I'm a designer-turned-engineer with a deep love of the web, how it democratizes access and information, and how it impacts society.",
+    "status": {
+      "text": null,
+      "emoji": null,
+      "timestamp": null
+    },
+    "sectionOrder": [
+      "Contact",
+      "Projects",
+      "Work Experience",
+      "Side Projects",
+      "Exhibitions",
+      "Speaking",
+      "Writing",
+      "Awards",
+      "Features",
+      "Volunteering",
+      "Certifications",
+      "Education",
+      "Teams"
+    ]
+  },
+  "projects": [
+    {
+      "id": "kgKE4BgtEzJJESono1GO",
+      "year": "Ongoing",
+      "heading": "Haiku",
+      "url": "https://preview.haikunotes.com",
+      "collaborators": [],
+      "description": "a stream-of-consciousness journaling app",
+      "attachments": [],
+      "type": "project",
+      "title": "Haiku",
+      "company": ""
+    }
+  ],
+  "sideProjects": [
+    {
+      "id": "356Evv7Opnf27OMxCicS",
+      "year": "Ongoing",
+      "heading": "Logos & Brands",
+      "url": null,
+      "collaborators": [],
+      "description": "an assortment of logos I have designed over the years",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 2400,
+          "height": 1600,
+          "url": "/content/media/Logos-and-Brands-1.png"
+        },
+        {
+          "type": "image",
+          "width": 2400,
+          "height": 1600,
+          "url": "/content/media/Logos-and-Brands-2.png"
+        },
+        {
+          "type": "image",
+          "width": 2400,
+          "height": 1600,
+          "url": "/content/media/Logos-and-Brands-3.png"
+        },
+        {
+          "type": "image",
+          "width": 2400,
+          "height": 1600,
+          "url": "/content/media/Logos-and-Brands-4.png"
+        },
+        {
+          "type": "image",
+          "width": 2400,
+          "height": 1600,
+          "url": "/content/media/Logos-and-Brands-5.png"
+        },
+        {
+          "type": "image",
+          "width": 2400,
+          "height": 1600,
+          "url": "/content/media/Logos-and-Brands-6.png"
+        },
+        {
+          "type": "image",
+          "width": 2400,
+          "height": 1600,
+          "url": "/content/media/Logos-and-Brands-7.png"
+        }
+      ],
+      "type": "sideProject",
+      "title": "Logos & Brands",
+      "company": null
+    },
+    {
+      "id": "dSY1UirZLdAonFH6XCrU",
+      "year": "2023",
+      "heading": "Weatherbot",
+      "url": "https://weather.taurean.work",
+      "collaborators": [],
+      "description": "Weatherbot is a small dashboard for viewing many weather forecasts at once. It was built mainly as a way to get more experience building with react.",
+      "attachments": [],
+      "type": "sideProject",
+      "title": "Weatherbot",
+      "company": null
+    }
+  ],
+  "exhibitions": [],
+  "talks": [
+    {
+      "id": "Y5G30avxXeRPl5yTSe9w",
+      "year": "2022",
+      "heading": "Intro to Building Responsive Layouts at Apree Health",
+      "url": null,
+      "collaborators": [],
+      "description": null,
+      "attachments": [
+        {
+          "type": "image",
+          "width": 2386,
+          "height": 1342,
+          "url": "/content/media/Intro-to-Building-Responsive-Layouts-at-Apree-Health-1.png"
+        },
+        {
+          "type": "image",
+          "width": 2389,
+          "height": 1341,
+          "url": "/content/media/Intro-to-Building-Responsive-Layouts-at-Apree-Health-2.png"
+        },
+        {
+          "type": "image",
+          "width": 2389,
+          "height": 1338,
+          "url": "/content/media/Intro-to-Building-Responsive-Layouts-at-Apree-Health-3.png"
+        }
+      ],
+      "type": "talk",
+      "title": "Intro to Building Responsive Layouts",
+      "event": "Apree Health",
+      "location": null
+    },
+    {
+      "id": "NnppNsjl6AlrBh2mCwkL",
+      "year": "2022",
+      "heading": "Developing for Web Accessibility at Apree Health",
+      "url": null,
+      "collaborators": [],
+      "description": null,
+      "attachments": [
+        {
+          "type": "image",
+          "width": 2391,
+          "height": 1342,
+          "url": "/content/media/Developing-for-Web-Accessibility-at-Apree-Health-1.png"
+        },
+        {
+          "type": "image",
+          "width": 2394,
+          "height": 1341,
+          "url": "/content/media/Developing-for-Web-Accessibility-at-Apree-Health-2.png"
+        },
+        {
+          "type": "image",
+          "width": 2389,
+          "height": 1339,
+          "url": "/content/media/Developing-for-Web-Accessibility-at-Apree-Health-3.png"
+        }
+      ],
+      "type": "talk",
+      "title": "Developing for Web Accessibility",
+      "event": "Apree Health",
+      "location": null
+    },
+    {
+      "id": "qnJbH3XN7YdrcI65kSqH",
+      "year": "2021",
+      "heading": "Building for Browsers at Apree Health",
+      "url": null,
+      "collaborators": [],
+      "description": "",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 2389,
+          "height": 1339,
+          "url": "/content/media/Building-for-Browsers-at-Apree-Health-1.png"
+        },
+        {
+          "type": "image",
+          "width": 2382,
+          "height": 1338,
+          "url": "/content/media/Building-for-Browsers-at-Apree-Health-2.png"
+        },
+        {
+          "type": "image",
+          "width": 2383,
+          "height": 1335,
+          "url": "/content/media/Building-for-Browsers-at-Apree-Health-3.png"
+        }
+      ],
+      "type": "talk",
+      "title": "Building for Browsers",
+      "event": "Apree Health",
+      "location": ""
+    }
+  ],
+  "writing": [
+    {
+      "id": "gBfHvZEwazMRkagHQ606",
+      "year": "2019",
+      "heading": "Managing the Transition CSS Property, The Startup",
+      "url": "https://medium.com/swlh/managing-the-transition-css-property-787bffd256df",
+      "collaborators": [],
+      "description": "A how-to guide on managing the transition CSS property when working with a large team of web developers",
+      "attachments": [],
+      "type": "writing",
+      "title": "Managing the Transition CSS Property",
+      "publisher": "The Startup"
+    }
+  ],
+  "awards": [],
+  "features": [],
+  "workExperience": [
+    {
+      "id": "ZabbqYUhjzo28KpnfARJ",
+      "year": "2024 — Now",
+      "heading": "Freelance Design Engineer at taurean.work",
+      "url": null,
+      "collaborators": [],
+      "description": "* Developing accessible, responsive interfaces following WCAG standards\n\n* Building and maintaining design systems\n\n* Creating and documenting reusable UI components using typescript, react, svelte, and, Figma, and storybook\n\n* Consulting on interface design for usability",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Freelance Design Engineer",
+      "company": "taurean.work",
+      "location": "remote"
+    },
+    {
+      "id": "frepL8ErtPMrDkzJleS2",
+      "year": "2018 — 2023",
+      "heading": "UI Engineer at Apree Health",
+      "url": "https://apreehealth.com/",
+      "collaborators": [],
+      "description": "- Led updates for the Design Systems team, including the adoption of design tokens and the migration of Sass mixins, functions, maps, and variables into an independent repo for multiple applications.\n- Championed the adoption of storybook and documented CSS, design systems process, and angular-based utility components.\n- Conducted workshops to train engineers on writing SCSS, front-end code for accessibility, and building for the web.\n- Refactored outdated Angular components using HTML, SCSS, and Typescript, resulting in increased website speed and accessibility (WCAG 2.1 compliance).\n- Advised on retrofitting an existing mobile-only web app to a responsive application with a desktop-class experience.\n- Facilitated communication between design and engineering to establish and utilize design patterns and address usability issues that would have otherwise been noticed only by design after shipping",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 2048,
+          "height": 1327,
+          "url": "/content/media/UI-Engineer-at-Apree-Health-1.png"
+        },
+        {
+          "type": "image",
+          "width": 2048,
+          "height": 1327,
+          "url": "/content/media/UI-Engineer-at-Apree-Health-2.png"
+        },
+        {
+          "type": "image",
+          "width": 2048,
+          "height": 1327,
+          "url": "/content/media/UI-Engineer-at-Apree-Health-3.png"
+        },
+        {
+          "type": "image",
+          "width": 2048,
+          "height": 1327,
+          "url": "/content/media/UI-Engineer-at-Apree-Health-4.png"
+        },
+        {
+          "type": "image",
+          "width": 2048,
+          "height": 1327,
+          "url": "/content/media/UI-Engineer-at-Apree-Health-5.png"
+        },
+        {
+          "type": "image",
+          "width": 2048,
+          "height": 1327,
+          "url": "/content/media/UI-Engineer-at-Apree-Health-6.png"
+        },
+        {
+          "type": "image",
+          "width": 2048,
+          "height": 1327,
+          "url": "/content/media/UI-Engineer-at-Apree-Health-7.png"
+        },
+        {
+          "type": "image",
+          "width": 2048,
+          "height": 1327,
+          "url": "/content/media/UI-Engineer-at-Apree-Health-8.png"
+        },
+        {
+          "type": "image",
+          "width": 2048,
+          "height": 1327,
+          "url": "/content/media/UI-Engineer-at-Apree-Health-9.png"
+        },
+        {
+          "type": "image",
+          "width": 2048,
+          "height": 1327,
+          "url": "/content/media/UI-Engineer-at-Apree-Health-10.png"
+        },
+        {
+          "type": "image",
+          "width": 2048,
+          "height": 1327,
+          "url": "/content/media/UI-Engineer-at-Apree-Health-11.png"
+        }
+      ],
+      "type": "workExperience",
+      "title": "UI Engineer",
+      "company": "Apree Health",
+      "location": "San Francisco, CA"
+    },
+    {
+      "id": "Ar0zc59TCQyk9sS4hkE1",
+      "year": "2014 — 2018",
+      "heading": "Lead Product Designer at Edyt",
+      "url": "https://www.crunchbase.com/organization/edyt-inc",
+      "collaborators": [],
+      "description": "* Spearheaded the design of a comprehensive software solution for managing a patent examiner's workflow, which became one of the largest government software projects in Europe.\n* Designed a platform that allowed patent examiners to receive applications, annotate documents, map relationships between different documents and prior art, draft responses to applicants, and handle all business operations within the organization such as handling time off requests and deputizing other examiners.\n* Led a project to apply our learnings of the patent world to a new venture outside of the studio-client relationship.",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 1626,
+          "height": 997,
+          "url": "/content/media/Lead-Product-Designer-at-Edyt-1.png"
+        },
+        {
+          "type": "image",
+          "width": 4952,
+          "height": 1425,
+          "url": "/content/media/Lead-Product-Designer-at-Edyt-2.png"
+        },
+        {
+          "type": "image",
+          "width": 1920,
+          "height": 1080,
+          "url": "/content/media/Lead-Product-Designer-at-Edyt-3.png"
+        },
+        {
+          "type": "image",
+          "width": 1920,
+          "height": 1080,
+          "url": "/content/media/Lead-Product-Designer-at-Edyt-4.png"
+        },
+        {
+          "type": "image",
+          "width": 2796,
+          "height": 1027,
+          "url": "/content/media/Lead-Product-Designer-at-Edyt-5.png"
+        }
+      ],
+      "type": "workExperience",
+      "title": "Lead Product Designer",
+      "company": "Edyt",
+      "location": "Oakland, CA"
+    },
+    {
+      "id": "Vl6TS8i5QoAnGvVnhcsB",
+      "year": "2012 — 2014",
+      "heading": "Design at Freelance",
+      "url": "https://dribbble.com/taurean",
+      "collaborators": [],
+      "description": "- Provided design services to various startups, including web design, product design, print collateral, and vehicle decals.\n- Managed design workload for multiple MTV/VH1 TV shows during the lead-up to the VMAs, allowing the Viacom staff of designers to focus on the event.",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 640,
+          "height": 960,
+          "url": "/content/media/Design-at-Freelance-1.png"
+        },
+        {
+          "type": "image",
+          "width": 820,
+          "height": 1536,
+          "url": "/content/media/Design-at-Freelance-2.png"
+        },
+        {
+          "type": "image",
+          "width": 2013,
+          "height": 7840,
+          "url": "/content/media/Design-at-Freelance-3.png"
+        },
+        {
+          "type": "image",
+          "width": 600,
+          "height": 1200,
+          "url": "/content/media/Design-at-Freelance-4.png"
+        },
+        {
+          "type": "image",
+          "width": 800,
+          "height": 600,
+          "url": "/content/media/Design-at-Freelance-5.png"
+        },
+        {
+          "type": "image",
+          "width": 1160,
+          "height": 920,
+          "url": "/content/media/Design-at-Freelance-6.png"
+        },
+        {
+          "type": "image",
+          "width": 400,
+          "height": 800,
+          "url": "/content/media/Design-at-Freelance-7.jpg"
+        },
+        {
+          "type": "image",
+          "width": 800,
+          "height": 400,
+          "url": "/content/media/Design-at-Freelance-8.jpg"
+        },
+        {
+          "type": "image",
+          "width": 800,
+          "height": 400,
+          "url": "/content/media/Design-at-Freelance-9.jpg"
+        },
+        {
+          "type": "image",
+          "width": 800,
+          "height": 400,
+          "url": "/content/media/Design-at-Freelance-10.jpg"
+        },
+        {
+          "type": "image",
+          "width": 800,
+          "height": 400,
+          "url": "/content/media/Design-at-Freelance-11.jpg"
+        },
+        {
+          "type": "image",
+          "width": 4000,
+          "height": 600,
+          "url": "/content/media/Design-at-Freelance-12.jpg"
+        },
+        {
+          "type": "image",
+          "width": 2048,
+          "height": 821,
+          "url": "/content/media/Design-at-Freelance-13.png"
+        }
+      ],
+      "type": "workExperience",
+      "title": "Design",
+      "company": "Freelance",
+      "location": "Remote"
+    },
+    {
+      "id": "imeDtrV5X56jPuGnPhs0",
+      "year": "2011 — 2012",
+      "heading": "Visual Designer at Grooveshark",
+      "url": "https://en.wikipedia.org/wiki/Grooveshark",
+      "collaborators": [],
+      "description": "- Worked alongside a small production team to design and polish advertisement campaigns for clients such as Pepsico, Adidas, Absolut, Samsung, and more.\n- Transitioned from an intern role to a visual designer in July of 2011.",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 1200,
+          "height": 740,
+          "url": "/content/media/Visual-Designer-at-Grooveshark-1.jpg"
+        },
+        {
+          "type": "image",
+          "width": 1400,
+          "height": 863,
+          "url": "/content/media/Visual-Designer-at-Grooveshark-2.jpg"
+        },
+        {
+          "type": "image",
+          "width": 1400,
+          "height": 863,
+          "url": "/content/media/Visual-Designer-at-Grooveshark-3.jpg"
+        }
+      ],
+      "type": "workExperience",
+      "title": "Visual Designer",
+      "company": "Grooveshark",
+      "location": "Manhattan, NY"
+    }
+  ],
+  "volunteering": [],
+  "education": [],
+  "certifications": [],
+  "contact": [
+    {
+      "id": "QDZeCR1uYMlRNUwE5uR7",
+      "platform": "Portfolio",
+      "handle": "Work Samples (PDF)",
+      "url": "https://link.taurean.work/portfolio"
+    },
+    {
+      "id": "2dtaTYF3cNkzHQDCAF6H",
+      "platform": "Email",
+      "handle": "taurean@bryant.land",
+      "url": "mailto:taurean@bryant.land"
+    },
+    {
+      "id": "73YQduo8MhQcAF0ZW8rk",
+      "platform": "LinkedIn",
+      "handle": "taureanbryant",
+      "url": "https://linkedin.com/in/taureanbryant"
+    }
+  ],
+  "allCollections": [
+    {
+      "name": "Contact",
+      "items": [
+        {
+          "id": "QDZeCR1uYMlRNUwE5uR7",
+          "platform": "Portfolio",
+          "handle": "Work Samples (PDF)",
+          "url": "https://link.taurean.work/portfolio"
+        },
+        {
+          "id": "2dtaTYF3cNkzHQDCAF6H",
+          "platform": "Email",
+          "handle": "taurean@bryant.land",
+          "url": "mailto:taurean@bryant.land"
+        },
+        {
+          "id": "73YQduo8MhQcAF0ZW8rk",
+          "platform": "LinkedIn",
+          "handle": "taureanbryant",
+          "url": "https://linkedin.com/in/taureanbryant"
+        }
+      ]
+    },
+    {
+      "name": "Projects",
+      "items": [
+        {
+          "id": "kgKE4BgtEzJJESono1GO",
+          "year": "Ongoing",
+          "heading": "Haiku",
+          "url": "https://preview.haikunotes.com",
+          "collaborators": [],
+          "description": "a stream-of-consciousness journaling app",
+          "attachments": [],
+          "type": "project",
+          "title": "Haiku",
+          "company": ""
+        }
+      ]
+    },
+    {
+      "name": "Work Experience",
+      "items": [
+        {
+          "id": "ZabbqYUhjzo28KpnfARJ",
+          "year": "2024 — Now",
+          "heading": "Freelance Design Engineer at taurean.work",
+          "url": null,
+          "collaborators": [],
+          "description": "* Developing accessible, responsive interfaces following WCAG standards\n\n* Building and maintaining design systems\n\n* Creating and documenting reusable UI components using typescript, react, svelte, and, Figma, and storybook\n\n* Consulting on interface design for usability",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Freelance Design Engineer",
+          "company": "taurean.work",
+          "location": "remote"
+        },
+        {
+          "id": "frepL8ErtPMrDkzJleS2",
+          "year": "2018 — 2023",
+          "heading": "UI Engineer at Apree Health",
+          "url": "https://apreehealth.com/",
+          "collaborators": [],
+          "description": "- Led updates for the Design Systems team, including the adoption of design tokens and the migration of Sass mixins, functions, maps, and variables into an independent repo for multiple applications.\n- Championed the adoption of storybook and documented CSS, design systems process, and angular-based utility components.\n- Conducted workshops to train engineers on writing SCSS, front-end code for accessibility, and building for the web.\n- Refactored outdated Angular components using HTML, SCSS, and Typescript, resulting in increased website speed and accessibility (WCAG 2.1 compliance).\n- Advised on retrofitting an existing mobile-only web app to a responsive application with a desktop-class experience.\n- Facilitated communication between design and engineering to establish and utilize design patterns and address usability issues that would have otherwise been noticed only by design after shipping",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 2048,
+              "height": 1327,
+              "url": "/content/media/UI-Engineer-at-Apree-Health-1.png"
+            },
+            {
+              "type": "image",
+              "width": 2048,
+              "height": 1327,
+              "url": "/content/media/UI-Engineer-at-Apree-Health-2.png"
+            },
+            {
+              "type": "image",
+              "width": 2048,
+              "height": 1327,
+              "url": "/content/media/UI-Engineer-at-Apree-Health-3.png"
+            },
+            {
+              "type": "image",
+              "width": 2048,
+              "height": 1327,
+              "url": "/content/media/UI-Engineer-at-Apree-Health-4.png"
+            },
+            {
+              "type": "image",
+              "width": 2048,
+              "height": 1327,
+              "url": "/content/media/UI-Engineer-at-Apree-Health-5.png"
+            },
+            {
+              "type": "image",
+              "width": 2048,
+              "height": 1327,
+              "url": "/content/media/UI-Engineer-at-Apree-Health-6.png"
+            },
+            {
+              "type": "image",
+              "width": 2048,
+              "height": 1327,
+              "url": "/content/media/UI-Engineer-at-Apree-Health-7.png"
+            },
+            {
+              "type": "image",
+              "width": 2048,
+              "height": 1327,
+              "url": "/content/media/UI-Engineer-at-Apree-Health-8.png"
+            },
+            {
+              "type": "image",
+              "width": 2048,
+              "height": 1327,
+              "url": "/content/media/UI-Engineer-at-Apree-Health-9.png"
+            },
+            {
+              "type": "image",
+              "width": 2048,
+              "height": 1327,
+              "url": "/content/media/UI-Engineer-at-Apree-Health-10.png"
+            },
+            {
+              "type": "image",
+              "width": 2048,
+              "height": 1327,
+              "url": "/content/media/UI-Engineer-at-Apree-Health-11.png"
+            }
+          ],
+          "type": "workExperience",
+          "title": "UI Engineer",
+          "company": "Apree Health",
+          "location": "San Francisco, CA"
+        },
+        {
+          "id": "Ar0zc59TCQyk9sS4hkE1",
+          "year": "2014 — 2018",
+          "heading": "Lead Product Designer at Edyt",
+          "url": "https://www.crunchbase.com/organization/edyt-inc",
+          "collaborators": [],
+          "description": "* Spearheaded the design of a comprehensive software solution for managing a patent examiner's workflow, which became one of the largest government software projects in Europe.\n* Designed a platform that allowed patent examiners to receive applications, annotate documents, map relationships between different documents and prior art, draft responses to applicants, and handle all business operations within the organization such as handling time off requests and deputizing other examiners.\n* Led a project to apply our learnings of the patent world to a new venture outside of the studio-client relationship.",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 1626,
+              "height": 997,
+              "url": "/content/media/Lead-Product-Designer-at-Edyt-1.png"
+            },
+            {
+              "type": "image",
+              "width": 4952,
+              "height": 1425,
+              "url": "/content/media/Lead-Product-Designer-at-Edyt-2.png"
+            },
+            {
+              "type": "image",
+              "width": 1920,
+              "height": 1080,
+              "url": "/content/media/Lead-Product-Designer-at-Edyt-3.png"
+            },
+            {
+              "type": "image",
+              "width": 1920,
+              "height": 1080,
+              "url": "/content/media/Lead-Product-Designer-at-Edyt-4.png"
+            },
+            {
+              "type": "image",
+              "width": 2796,
+              "height": 1027,
+              "url": "/content/media/Lead-Product-Designer-at-Edyt-5.png"
+            }
+          ],
+          "type": "workExperience",
+          "title": "Lead Product Designer",
+          "company": "Edyt",
+          "location": "Oakland, CA"
+        },
+        {
+          "id": "Vl6TS8i5QoAnGvVnhcsB",
+          "year": "2012 — 2014",
+          "heading": "Design at Freelance",
+          "url": "https://dribbble.com/taurean",
+          "collaborators": [],
+          "description": "- Provided design services to various startups, including web design, product design, print collateral, and vehicle decals.\n- Managed design workload for multiple MTV/VH1 TV shows during the lead-up to the VMAs, allowing the Viacom staff of designers to focus on the event.",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 640,
+              "height": 960,
+              "url": "/content/media/Design-at-Freelance-1.png"
+            },
+            {
+              "type": "image",
+              "width": 820,
+              "height": 1536,
+              "url": "/content/media/Design-at-Freelance-2.png"
+            },
+            {
+              "type": "image",
+              "width": 2013,
+              "height": 7840,
+              "url": "/content/media/Design-at-Freelance-3.png"
+            },
+            {
+              "type": "image",
+              "width": 600,
+              "height": 1200,
+              "url": "/content/media/Design-at-Freelance-4.png"
+            },
+            {
+              "type": "image",
+              "width": 800,
+              "height": 600,
+              "url": "/content/media/Design-at-Freelance-5.png"
+            },
+            {
+              "type": "image",
+              "width": 1160,
+              "height": 920,
+              "url": "/content/media/Design-at-Freelance-6.png"
+            },
+            {
+              "type": "image",
+              "width": 400,
+              "height": 800,
+              "url": "/content/media/Design-at-Freelance-7.jpg"
+            },
+            {
+              "type": "image",
+              "width": 800,
+              "height": 400,
+              "url": "/content/media/Design-at-Freelance-8.jpg"
+            },
+            {
+              "type": "image",
+              "width": 800,
+              "height": 400,
+              "url": "/content/media/Design-at-Freelance-9.jpg"
+            },
+            {
+              "type": "image",
+              "width": 800,
+              "height": 400,
+              "url": "/content/media/Design-at-Freelance-10.jpg"
+            },
+            {
+              "type": "image",
+              "width": 800,
+              "height": 400,
+              "url": "/content/media/Design-at-Freelance-11.jpg"
+            },
+            {
+              "type": "image",
+              "width": 4000,
+              "height": 600,
+              "url": "/content/media/Design-at-Freelance-12.jpg"
+            },
+            {
+              "type": "image",
+              "width": 2048,
+              "height": 821,
+              "url": "/content/media/Design-at-Freelance-13.png"
+            }
+          ],
+          "type": "workExperience",
+          "title": "Design",
+          "company": "Freelance",
+          "location": "Remote"
+        },
+        {
+          "id": "imeDtrV5X56jPuGnPhs0",
+          "year": "2011 — 2012",
+          "heading": "Visual Designer at Grooveshark",
+          "url": "https://en.wikipedia.org/wiki/Grooveshark",
+          "collaborators": [],
+          "description": "- Worked alongside a small production team to design and polish advertisement campaigns for clients such as Pepsico, Adidas, Absolut, Samsung, and more.\n- Transitioned from an intern role to a visual designer in July of 2011.",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 1200,
+              "height": 740,
+              "url": "/content/media/Visual-Designer-at-Grooveshark-1.jpg"
+            },
+            {
+              "type": "image",
+              "width": 1400,
+              "height": 863,
+              "url": "/content/media/Visual-Designer-at-Grooveshark-2.jpg"
+            },
+            {
+              "type": "image",
+              "width": 1400,
+              "height": 863,
+              "url": "/content/media/Visual-Designer-at-Grooveshark-3.jpg"
+            }
+          ],
+          "type": "workExperience",
+          "title": "Visual Designer",
+          "company": "Grooveshark",
+          "location": "Manhattan, NY"
+        }
+      ]
+    },
+    {
+      "name": "Side Projects",
+      "items": [
+        {
+          "id": "356Evv7Opnf27OMxCicS",
+          "year": "Ongoing",
+          "heading": "Logos & Brands",
+          "url": null,
+          "collaborators": [],
+          "description": "an assortment of logos I have designed over the years",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 2400,
+              "height": 1600,
+              "url": "/content/media/Logos-and-Brands-1.png"
+            },
+            {
+              "type": "image",
+              "width": 2400,
+              "height": 1600,
+              "url": "/content/media/Logos-and-Brands-2.png"
+            },
+            {
+              "type": "image",
+              "width": 2400,
+              "height": 1600,
+              "url": "/content/media/Logos-and-Brands-3.png"
+            },
+            {
+              "type": "image",
+              "width": 2400,
+              "height": 1600,
+              "url": "/content/media/Logos-and-Brands-4.png"
+            },
+            {
+              "type": "image",
+              "width": 2400,
+              "height": 1600,
+              "url": "/content/media/Logos-and-Brands-5.png"
+            },
+            {
+              "type": "image",
+              "width": 2400,
+              "height": 1600,
+              "url": "/content/media/Logos-and-Brands-6.png"
+            },
+            {
+              "type": "image",
+              "width": 2400,
+              "height": 1600,
+              "url": "/content/media/Logos-and-Brands-7.png"
+            }
+          ],
+          "type": "sideProject",
+          "title": "Logos & Brands",
+          "company": null
+        },
+        {
+          "id": "dSY1UirZLdAonFH6XCrU",
+          "year": "2023",
+          "heading": "Weatherbot",
+          "url": "https://weather.taurean.work",
+          "collaborators": [],
+          "description": "Weatherbot is a small dashboard for viewing many weather forecasts at once. It was built mainly as a way to get more experience building with react.",
+          "attachments": [],
+          "type": "sideProject",
+          "title": "Weatherbot",
+          "company": null
+        }
+      ]
+    },
+    {
+      "name": "Speaking",
+      "items": [
+        {
+          "id": "Y5G30avxXeRPl5yTSe9w",
+          "year": "2022",
+          "heading": "Intro to Building Responsive Layouts at Apree Health",
+          "url": null,
+          "collaborators": [],
+          "description": null,
+          "attachments": [
+            {
+              "type": "image",
+              "width": 2386,
+              "height": 1342,
+              "url": "/content/media/Intro-to-Building-Responsive-Layouts-at-Apree-Health-1.png"
+            },
+            {
+              "type": "image",
+              "width": 2389,
+              "height": 1341,
+              "url": "/content/media/Intro-to-Building-Responsive-Layouts-at-Apree-Health-2.png"
+            },
+            {
+              "type": "image",
+              "width": 2389,
+              "height": 1338,
+              "url": "/content/media/Intro-to-Building-Responsive-Layouts-at-Apree-Health-3.png"
+            }
+          ],
+          "type": "talk",
+          "title": "Intro to Building Responsive Layouts",
+          "event": "Apree Health",
+          "location": null
+        },
+        {
+          "id": "NnppNsjl6AlrBh2mCwkL",
+          "year": "2022",
+          "heading": "Developing for Web Accessibility at Apree Health",
+          "url": null,
+          "collaborators": [],
+          "description": null,
+          "attachments": [
+            {
+              "type": "image",
+              "width": 2391,
+              "height": 1342,
+              "url": "/content/media/Developing-for-Web-Accessibility-at-Apree-Health-1.png"
+            },
+            {
+              "type": "image",
+              "width": 2394,
+              "height": 1341,
+              "url": "/content/media/Developing-for-Web-Accessibility-at-Apree-Health-2.png"
+            },
+            {
+              "type": "image",
+              "width": 2389,
+              "height": 1339,
+              "url": "/content/media/Developing-for-Web-Accessibility-at-Apree-Health-3.png"
+            }
+          ],
+          "type": "talk",
+          "title": "Developing for Web Accessibility",
+          "event": "Apree Health",
+          "location": null
+        },
+        {
+          "id": "qnJbH3XN7YdrcI65kSqH",
+          "year": "2021",
+          "heading": "Building for Browsers at Apree Health",
+          "url": null,
+          "collaborators": [],
+          "description": "",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 2389,
+              "height": 1339,
+              "url": "/content/media/Building-for-Browsers-at-Apree-Health-1.png"
+            },
+            {
+              "type": "image",
+              "width": 2382,
+              "height": 1338,
+              "url": "/content/media/Building-for-Browsers-at-Apree-Health-2.png"
+            },
+            {
+              "type": "image",
+              "width": 2383,
+              "height": 1335,
+              "url": "/content/media/Building-for-Browsers-at-Apree-Health-3.png"
+            }
+          ],
+          "type": "talk",
+          "title": "Building for Browsers",
+          "event": "Apree Health",
+          "location": ""
+        }
+      ]
+    },
+    {
+      "name": "Writing",
+      "items": [
+        {
+          "id": "gBfHvZEwazMRkagHQ606",
+          "year": "2019",
+          "heading": "Managing the Transition CSS Property, The Startup",
+          "url": "https://medium.com/swlh/managing-the-transition-css-property-787bffd256df",
+          "collaborators": [],
+          "description": "A how-to guide on managing the transition CSS property when working with a large team of web developers",
+          "attachments": [],
+          "type": "writing",
+          "title": "Managing the Transition CSS Property",
+          "publisher": "The Startup"
+        }
+      ]
+    }
+  ]
+}
